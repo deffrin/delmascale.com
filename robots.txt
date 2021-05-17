@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /wp-admin/
+ 
+http://delmascales.com/sitemap.xml
