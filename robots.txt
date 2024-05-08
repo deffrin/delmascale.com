@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: /wp-admin/
- 
-http://delmascales.com/sitemap.xml
+Disallow: /private/
+Disallow: /secrets/
+Allow: /public/
+Sitemap: https://www.delmascale.com/sitemap.xml
