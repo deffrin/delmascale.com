@@ -1231,7 +1231,20 @@
              $('.more-text').hide();
              $('.show-more-text').show();
            });
-         
+            
+         <script type="text/javascript">
+    // Redirects map
+    var redirectMap = {
+        "/old-page": "/weighing-scale-indicator.html",
+        // Add more redirects here
+    };
+
+    var path = window.location.pathname;
+    if (redirectMap[path]) {
+        window.location.href = redirectMap[path];
+    }
+</script>
+
            
          
          });
