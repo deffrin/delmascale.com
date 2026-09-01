@@ -4,44 +4,61 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
   <loc>https://www.delmascale.com/</loc>
-  <lastmod>2024-08-21T05:16:59+00:00</lastmod>
+  <lastmod>2026-09-01</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.delmascale.com/industrial-weighing-scales.html</loc>
-  <lastmod>2024-08-21T05:16:59+00:00</lastmod>
+  <lastmod>2026-09-01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.delmascale.com/retail.html</loc>
-  <lastmod>2024-08-21T05:16:59+00:00</lastmod>
+  <lastmod>2026-09-01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.delmascale.com/weigh-bridge.html</loc>
-  <lastmod>2024-08-21T05:16:59+00:00</lastmod>
+  <lastmod>2026-09-01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.delmascale.com/weighing-scale-indicator.html</loc>
-  <lastmod>2024-08-21T05:16:59+00:00</lastmod>
+  <lastmod>2026-09-01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.delmascale.com/load-cell-sensor.html</loc>
-  <lastmod>2024-08-21T05:16:59+00:00</lastmod>
+  <lastmod>2026-09-01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.delmascale.com/index.html</loc>
-  <lastmod>2024-08-21T05:16:59+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://www.delmascale.com/accessories.html</loc>
+  <lastmod>2026-09-01</lastmod>
+  <priority>0.60</priority>
 </url>
-
+<url>
+  <loc>https://www.delmascale.com/printers.html</loc>
+  <lastmod>2026-09-01</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://www.delmascale.com/services.html</loc>
+  <lastmod>2026-09-01</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://www.delmascale.com/about.html</loc>
+  <lastmod>2026-09-01</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://www.delmascale.com/contact.html</loc>
+  <lastmod>2026-09-01</lastmod>
+  <priority>0.50</priority>
+</url>
 
 </urlset>

@@ -1,9 +1,4 @@
 User-agent: *
-Disallow: /private/
-Disallow: /secrets/
-Disallow: /about.html
-Disallow: /contact.html
-Disallow: /accessories.html
-Disallow: /services.html
-Allow: /public/
+Disallow:
+
 Sitemap: https://www.delmascale.com/sitemap.xml
